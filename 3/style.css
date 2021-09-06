@@ -1,0 +1,1054 @@
+.aph {
+    -epub-hyphens: none;
+    -epub-line-break: normal;
+    -webkit-hyphens: none;
+    color: #575757;
+    display: block;
+    font-family: sans-serif;
+    font-size: 1em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 6px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.basic-table {
+    border-bottom-color: #000;
+    border-bottom-style: solid;
+    border-bottom-width: 0;
+    border-collapse: collapse;
+    border-left-color: #000;
+    border-left-style: solid;
+    border-left-width: 0;
+    border-right-color: #000;
+    border-right-style: solid;
+    border-right-width: 0;
+    border-spacing: 2px;
+    border-top-color: #000;
+    border-top-style: solid;
+    border-top-width: 0;
+    display: table;
+    margin-bottom: 4px;
+    margin-top: 4px;
+    text-indent: 0;
+    width: 100%
+    }
+.basic-table1 {
+    border-bottom-color: #000;
+    border-bottom-style: solid;
+    border-bottom-width: 0;
+    border-left-color: #000;
+    border-left-style: solid;
+    border-left-width: 0;
+    border-right-color: #000;
+    border-right-style: solid;
+    border-right-width: 0;
+    border-top-color: #000;
+    border-top-style: solid;
+    border-top-width: 0;
+    display: table-cell;
+    padding-bottom: 0;
+    padding-left: 4px;
+    padding-right: 4px;
+    padding-top: 0;
+    text-align: inherit;
+    vertical-align: top
+    }
+.basic-table2 {
+    border-bottom-color: #000;
+    border-bottom-style: solid;
+    border-bottom-width: 0;
+    border-collapse: collapse;
+    border-left-color: #000;
+    border-left-style: solid;
+    border-left-width: 0;
+    border-right-color: #000;
+    border-right-style: solid;
+    border-right-width: 0;
+    border-spacing: 2px;
+    border-top-color: #000;
+    border-top-style: solid;
+    border-top-width: 0;
+    display: table;
+    margin-bottom: 4px;
+    margin-top: 4px;
+    text-indent: 0;
+    width: 40%
+    }
+.bib {
+    display: block;
+    list-style-type: none;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-top: 0
+    }
+.body {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0
+    }
+.calibre {
+    display: block;
+    font-size: 1.29167em;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0
+    }
+.calibre1 {
+    height: auto;
+    width: 120px
+    }
+.calibre2 {
+    font-style: italic
+    }
+.calibre3 {
+    line-height: 1.2
+    }
+.calibre4 {
+    display: inline;
+    text-decoration: none
+    }
+.calibre5 {
+    display: block
+    }
+.calibre6 {
+    font-size: 0.625em;
+    line-height: 1.2;
+    vertical-align: 35%
+    }
+.calibre7 {
+    height: auto;
+    width: auto
+    }
+.calibre8 {
+    display: block;
+    page-break-after: always
+    }
+.calibre9 {
+    text-decoration: underline
+    }
+.calibre10 {
+    font-size: 0.83333em
+    }
+.calibre11 {
+    font-weight: bold
+    }
+.calibre12 {
+    display: table-row-group;
+    vertical-align: middle
+    }
+.calibre13 {
+    display: table-row;
+    vertical-align: inherit
+    }
+.calibre14 {
+    display: list-item
+    }
+.calibre15 {
+    display: block;
+    font-size: 1.29032em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.83em
+    }
+.calibre16 {
+    display: block;
+    list-style-type: decimal;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.cbmh {
+    -epub-line-break: normal;
+    display: list-item;
+    font-family: serif;
+    font-size: 0.77419em;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 4px;
+    margin-left: 1.6em;
+    margin-right: 0;
+    margin-top: 20px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.cbmhf {
+    -epub-line-break: normal;
+    display: list-item;
+    font-family: serif;
+    font-size: 0.77419em;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 4px;
+    margin-left: 1.6em;
+    margin-right: 0;
+    margin-top: 18px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.cct {
+    -epub-line-break: normal;
+    display: list-item;
+    font-family: serif;
+    font-size: 0.77419em;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 0;
+    margin-left: 1.6em;
+    margin-right: 0;
+    margin-top: 4px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: -1.6em
+    }
+.cfmhf {
+    -epub-line-break: normal;
+    display: list-item;
+    font-family: serif;
+    font-size: 0.77419em;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 4px;
+    margin-left: 1.6em;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.cfmhf1 {
+    -epub-line-break: normal;
+    display: list-item;
+    font-family: serif;
+    font-size: 0.77419em;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 12px;
+    margin-left: 1.6em;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.cn {
+    -epub-hyphens: none;
+    -epub-line-break: normal;
+    -webkit-hyphens: none;
+    color: #575757;
+    display: block;
+    font-family: sans-serif;
+    font-size: 1.54839em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 4px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.co {
+    -epub-line-break: normal;
+    display: block;
+    font-family: serif;
+    font-size: 0.77419em;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0
+    }
+.crt {
+    -epub-line-break: normal;
+    display: block;
+    font-family: serif;
+    font-size: 0.48387em;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 0;
+    margin-left: 1.4em;
+    margin-right: 1.4em;
+    margin-top: 0;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.crtf {
+    -epub-line-break: normal;
+    display: block;
+    font-family: serif;
+    font-size: 0.48387em;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 0;
+    margin-left: 1.4em;
+    margin-right: 1.4em;
+    margin-top: 8px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.cst {
+    -epub-hyphens: none;
+    -epub-line-break: normal;
+    -webkit-hyphens: none;
+    display: block;
+    font-family: sans-serif;
+    font-size: 1em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 42px;
+    margin-left: 0;
+    margin-right: 2.4em;
+    margin-top: 7px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.ct {
+    -epub-hyphens: none;
+    -epub-line-break: normal;
+    -webkit-hyphens: none;
+    display: block;
+    font-family: sans-serif;
+    font-size: 1.29032em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 42px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.ct1 {
+    -epub-line-break: normal;
+    display: block;
+    font-family: sans-serif;
+    font-size: 1.29032em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.emdash {
+    font-size: 0.83333em;
+    vertical-align: 35%
+    }
+.en_tx {
+    font-family: serif;
+    font-style: normal;
+    font-weight: normal
+    }
+.enh {
+    -epub-hyphens: none;
+    -epub-line-break: normal;
+    -webkit-hyphens: none;
+    display: block;
+    font-family: sans-serif;
+    font-size: 0.64516em;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 6px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 20px;
+    page-break-after: avoid;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.enhf {
+    -epub-line-break: normal;
+    display: block;
+    font-family: sans-serif;
+    font-size: 0.64516em;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 6px;
+    margin-left: 0;
+    margin-right: 2.4em;
+    margin-top: 0;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.epc {
+    -epub-line-break: normal;
+    display: block;
+    font-family: serif;
+    font-size: 0.77419em;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 16px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.exf {
+    -epub-line-break: normal;
+    display: block;
+    font-family: serif;
+    font-size: 0.77419em;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 0;
+    margin-left: 1.4em;
+    margin-right: 0;
+    margin-top: 10px;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0
+    }
+.exi {
+    -epub-line-break: normal;
+    display: block;
+    font-family: serif;
+    font-size: 0.77419em;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 0;
+    margin-left: 1.4em;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 1.4em
+    }
+.exil {
+    -epub-line-break: normal;
+    display: block;
+    font-family: serif;
+    font-size: 0.77419em;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 10px;
+    margin-left: 1.4em;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 1.4em
+    }
+.exo {
+    -epub-line-break: normal;
+    display: block;
+    font-family: serif;
+    font-size: 0.77419em;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 10px;
+    margin-left: 1.4em;
+    margin-right: 0;
+    margin-top: 10px;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0
+    }
+.figh {
+    display: block;
+    font-family: serif;
+    font-size: 0.58065em;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 8px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.figsn {
+    display: block;
+    font-family: serif;
+    font-size: 0.58065em;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.fmh {
+    -epub-hyphens: none;
+    -epub-line-break: normal;
+    -webkit-hyphens: none;
+    color: #575757;
+    display: block;
+    font-family: sans-serif;
+    font-size: 1em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 84px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.h {
+    -epub-hyphens: none;
+    -epub-line-break: normal;
+    -webkit-hyphens: none;
+    display: block;
+    font-family: sans-serif;
+    font-size: 0.77419em;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 7px;
+    margin-left: 0;
+    margin-right: 2.4em;
+    margin-top: 21px;
+    page-break-after: avoid;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.h1 {
+    -epub-hyphens: none;
+    -epub-line-break: normal;
+    -webkit-hyphens: none;
+    display: block;
+    font-family: sans-serif;
+    font-size: 0.64516em;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 7px;
+    margin-left: 0;
+    margin-right: 2.4em;
+    margin-top: 22px;
+    page-break-after: avoid;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.h1f {
+    -epub-line-break: normal;
+    display: block;
+    font-family: sans-serif;
+    font-size: 0.77419em;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 7px;
+    margin-left: 0;
+    margin-right: 2.4em;
+    margin-top: 21px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.illf {
+    -epub-line-break: normal;
+    display: block;
+    font-family: serif;
+    font-size: 0.77419em;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 0;
+    margin-left: 2.2em;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-decoration: none;
+    text-indent: -2.2em
+    }
+.img {
+    display: block;
+    margin-bottom: 14px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left
+    }
+.img1 {
+    display: block;
+    margin-bottom: 24px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 24px;
+    text-align: center
+    }
+.ix {
+    -epub-line-break: normal;
+    display: list-item;
+    font-family: serif;
+    font-size: 0.58065em;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 0;
+    margin-left: 1em;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-decoration: none;
+    text-indent: -1em
+    }
+.ixa {
+    -epub-line-break: normal;
+    display: list-item;
+    font-family: serif;
+    font-size: 0.58065em;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 0;
+    margin-left: 1em;
+    margin-right: 0;
+    margin-top: 10px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: -1em
+    }
+.ntx {
+    -epub-line-break: normal;
+    display: block;
+    font-family: serif;
+    font-size: 0.58065em;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 1.4em
+    }
+.ntxeqf {
+    -epub-line-break: normal;
+    display: block;
+    font-family: serif;
+    font-size: 0.58065em;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 7px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 1.4em
+    }
+.ntxeql {
+    -epub-line-break: normal;
+    display: block;
+    font-family: serif;
+    font-size: 0.58065em;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 7px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 1.4em
+    }
+.ref {
+    display: list-item;
+    font-family: serif;
+    font-size: 0.58065em;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 0;
+    margin-left: 1.4em;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: -1.4em
+    }
+.reff {
+    display: block;
+    font-family: serif;
+    font-size: 0.58065em;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 10px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0
+    }
+.reff1 {
+    display: block;
+    font-family: serif;
+    font-size: 0.58065em;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 0;
+    margin-left: 1.4em;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: -1.4em
+    }
+.sans_avenir_black_b_ {
+    color: #575757;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: bold
+    }
+.sans_avenir_black_b_1 {
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.sans_avenir_black_b_2 {
+    color: #575757;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.sans_avenir_black_b_3 {
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: bold
+    }
+.sans_avenir_book_ {
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: normal
+    }
+.sans_avenir_medium_b-sc_ {
+    font-family: sans-serif;
+    font-size: 0.83333em;
+    font-style: normal;
+    font-weight: bold
+    }
+.serau {
+    -epub-line-break: normal;
+    color: #575757;
+    display: block;
+    font-family: sans-serif;
+    font-size: 0.77419em;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.serb {
+    -epub-line-break: normal;
+    display: block;
+    font-family: serif;
+    font-size: 0.64516em;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 3px;
+    margin-left: 1.4em;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-decoration: none;
+    text-indent: -1.4em
+    }
+.serbf {
+    -epub-line-break: normal;
+    display: block;
+    font-family: serif;
+    font-size: 0.64516em;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 3px;
+    margin-left: 1.4em;
+    margin-right: 0;
+    margin-top: 12px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: -1.4em
+    }
+.sig {
+    -epub-line-break: normal;
+    display: block;
+    font-family: serif;
+    font-size: 0.77419em;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.sp {
+    display: block;
+    margin-bottom: 3em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.sp1 {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.table {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: center
+    }
+.toc {
+    display: block;
+    list-style-type: none;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.toc1 {
+    font-style: normal;
+    font-weight: normal
+    }
+.tocnum {
+    font-family: serif;
+    font-size: 0.83333em;
+    font-style: normal;
+    font-weight: normal
+    }
+.tpau {
+    -epub-line-break: normal;
+    display: block;
+    font-family: serif;
+    font-size: 1.29032em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 14px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.tpht {
+    -epub-hyphens: none;
+    -epub-line-break: normal;
+    -webkit-hyphens: none;
+    color: #575757;
+    display: block;
+    font-family: sans-serif;
+    font-size: 1em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.tppub {
+    -epub-line-break: normal;
+    display: block;
+    font-family: sans-serif;
+    font-size: 0.58065em;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 4px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 280px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.tppub1 {
+    -epub-line-break: normal;
+    display: block;
+    font-family: sans-serif;
+    font-size: 0.58065em;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.tpst {
+    -epub-line-break: normal;
+    color: #575757;
+    display: block;
+    font-family: sans-serif;
+    font-size: 1.54839em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 4px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.tpt {
+    -epub-hyphens: none;
+    -epub-line-break: normal;
+    -webkit-hyphens: none;
+    display: block;
+    font-family: sans-serif;
+    font-size: 1.54839em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 4px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0
+    }
+.tx {
+    -epub-line-break: normal;
+    display: block;
+    font-family: serif;
+    font-size: 0.77419em;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 1.4em
+    }
+.ul {
+    -epub-line-break: normal;
+    display: block;
+    font-family: serif;
+    font-size: 0.77419em;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 0;
+    margin-left: 2.8em;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-decoration: none;
+    text-indent: -1.4em
+    }
+.ulf {
+    -epub-line-break: normal;
+    display: block;
+    font-family: serif;
+    font-size: 0.77419em;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 0;
+    margin-left: 2.8em;
+    margin-right: 0;
+    margin-top: 10px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: -1.4em
+    }
+.ull {
+    -epub-line-break: normal;
+    display: block;
+    font-family: serif;
+    font-size: 0.77419em;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 10px;
+    margin-left: 2.8em;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-decoration: none;
+    text-indent: -1.4em
+    }
+.ulo {
+    -epub-line-break: normal;
+    display: block;
+    font-family: serif;
+    font-size: 0.77419em;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 7px;
+    margin-left: 2.8em;
+    margin-right: 0;
+    margin-top: 7px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: -1.4em
+    }
+
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+
