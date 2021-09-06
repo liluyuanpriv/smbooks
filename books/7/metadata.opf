@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7407b669-e70c-4675-bfad-e26bfd20eb3c</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7407b669-e70c-4675-bfad-e26bfd20eb3c</dc:identifier>
+        <dc:title>The Secret Body: How the New Science of the Human Body Is Changing the Way We Live</dc:title>
+        <dc:creator opf:file-as="Davis, Daniel M." opf:role="aut">Daniel M. Davis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-07-01T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;'A perfect blend of cutting-edge science and compelling storytelling. Daniel Davis has a rare knack for making complex science comprehensible and thrilling' BILL BRYSON&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Welcome to a revolution in the science of you.&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;Recent and dramatic breakthroughs in our understanding of the body will profoundly change the experience of being human in the coming century. Already they are opening up boundary-breaking possibilities for intervention at every level, from our brains and genes to our microbiomes and immune systems. These will confer unprecedented powers over health, childhood development, our cognitive and physical abilities, and affect every aspect of how we live our lives and think about ourselves. As the secrets of our bodies are revealed, we all will face previously unthinkable choices with consequences we have yet to understand. &lt;/p&gt;
+&lt;p&gt;Imagine knowing years in advance the precise likelihood of developing specific cancers, thanks to a bespoke understanding of every cell in your body; following a diet and health regime tailored to your microbiome; continuous monitoring of your body's workings and well-being; taking drugs that improve your cognition and help to acquire new skills; manipulating the genes of your unborn children to eliminate disease or even enhance their capabilities. &lt;/p&gt;
+&lt;p&gt;Written by an award-winning scientist at the forefront of this work, &lt;em&gt;The Secret Body&lt;/em&gt; shows how these radical and disconcerting possibilities have been made real thanks to the ingenious technologies and decades-long collaborations of scientists worldwide. A gripping drama of discovery and a landmark account of this dawning revolution, it presents a vision of the human body of dizzying complexity, wonder and possibility. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;'A beautifully rendered picture of the startling new discoveries in human biology which are radically altering our understanding of how we function and what our future holds' BRIAN COX&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;'An extraordinary journey that reveals the magnificence, intricacy and beauty of the human body, fundamentally changing the way we see ourselves. Masterful' ALICE ROBERTS&lt;/strong&gt; &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Vintage Digital</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
