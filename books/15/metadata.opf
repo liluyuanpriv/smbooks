@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3a7ef74c-deba-46e6-b131-2a7c4fb3e19a</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3a7ef74c-deba-46e6-b131-2a7c4fb3e19a</dc:identifier>
+        <dc:title>The Courage to Act: A Memoir of a Crisis and Its Aftermath</dc:title>
+        <dc:creator opf:file-as="Bernanke, Ben S." opf:role="aut">Bernanke, Ben S.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-10-04T21:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;An unrivaled look at the fight to save the American economy.&lt;/p&gt;</dc:description>
+        <dc:publisher>W. W. Norton &amp; Company</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

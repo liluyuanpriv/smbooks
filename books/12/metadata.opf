@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">b57f1229-8f4d-44d3-95bf-dc55fb30d252</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b57f1229-8f4d-44d3-95bf-dc55fb30d252</dc:identifier>
+        <dc:title>Golden Gates</dc:title>
+        <dc:creator opf:file-as="Dougherty, Conor" opf:role="aut">Conor Dougherty</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-18T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;&lt;b&gt;A stunning, deeply reported investigation into the housing crisis &lt;/b&gt;&lt;/b&gt;&lt;br&gt;Cities are the engines of economic progress and the places that give birth to ideas that shape our lives. For generations, arriving in a major city was the first step toward the American Dream. But as housing costs skyrocket in cities across the nation, that door to opportunity is swinging shut. &lt;br&gt;No place has felt this more acutely than San Francisco, where the mansions of tech billionaires stand streets away from encampments of cardboard. With riveting block-by-block reporting, &lt;i&gt;New York Times&lt;/i&gt; reporter Conor Dougherty parses the history and economic forces that underlie the crisis from its epicenter. Still, as rising rents and home prices have spread across the country, massive movements against single-family zoning and for tenants' rights have followed. &lt;br&gt;The potent forces of racism have long shaped the narrative of home ownership in this country. Today, as we grapple with that legacy,...</dc:description>
+        <dc:publisher>Penguin Publishing Group</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

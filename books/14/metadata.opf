@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">05ffd07b-212c-42bd-91b6-cea8d9514bec</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">05ffd07b-212c-42bd-91b6-cea8d9514bec</dc:identifier>
+        <dc:title>From Third World to First The Singapore Story: 1965–2000</dc:title>
+        <dc:creator opf:file-as="Yew, Lee Kuan" opf:role="aut">Lee Kuan Yew</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Marshall Cavendish</dc:publisher>
+        <dc:rights>All rights are reserved.</dc:rights>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

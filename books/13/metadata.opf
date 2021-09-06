@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">ab605cbd-b341-4b71-a15c-fa8bfaea654c</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ab605cbd-b341-4b71-a15c-fa8bfaea654c</dc:identifier>
+        <dc:title>Accidence Will Happen</dc:title>
+        <dc:creator opf:file-as="Kamm, Oliver" opf:role="aut">Oliver Kamm</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;A witty, authoritative, and often provocative guide to the use and abuse of the English language, by the London Times's lead grammar columnist.&lt;/p&gt;&lt;p&gt;Are standards of English alright&amp;#8212;or should that be all right? To knowingly split an infinitive or not to? And what about ending a sentence with preposition, or for that matter beginning one with "and"?&lt;/p&gt;&lt;p&gt;We learn language by instinct, but good English, the pedants tell us, requires rules. Yet, as Oliver Kamm cleverly demonstrates in this new book, many of the purists' prohibitions are bogus and can be cheerfully disregarded. Accidence Will Happen is an authoritative and deeply reassuring guide to grammar, style, and the linguistic conundrums we all face.&lt;/p&gt;</dc:description>
+        <dc:publisher>Pegasus Books</dc:publisher>
+        <dc:rights>Copyright © 2016 by Oliver Kamm</dc:rights>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
