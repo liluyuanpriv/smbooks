@@ -1,0 +1,320 @@
+.attribution {
+    display: block;
+    margin-bottom: 1.5em;
+    margin-left: 1em;
+    margin-right: 0;
+    margin-top: 0.3em;
+    text-align: right
+    }
+.big {
+    font-size: 1.29167em;
+    line-height: 1.2
+    }
+.bl_hanging {
+    display: block;
+    margin-bottom: 0.3em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.3em;
+    text-align: justify;
+    text-indent: -1em
+    }
+.bl_indent {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 2.5em;
+    margin-right: 2.5em;
+    margin-top: 0;
+    text-align: justify;
+    text-indent: 1em
+    }
+.bl_nonindent {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 2.5em;
+    margin-right: 2.5em;
+    margin-top: 0;
+    text-align: justify;
+    text-indent: 0
+    }
+.block {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: justify
+    }
+.calibre {
+    display: block;
+    font-family: "Charis";
+    font-size: 1em;
+    line-height: 1.2em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0
+    }
+.calibre1 {
+    font-weight: bold
+    }
+.calibre2 {
+    font-style: italic
+    }
+.calibre3 {
+    background-color: #FFF;
+    display: block;
+    font-family: "Charis";
+    font-size: 1em;
+    line-height: 1.2em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: center
+    }
+.calibre4 {
+    height: auto;
+    max-height: 100%;
+    max-width: 100%;
+    width: auto
+    }
+.calibre5 {
+    display: block
+    }
+.calibre6 {
+    font-style: italic;
+    line-height: 1.2
+    }
+.calibre7 {
+    display: block;
+    page-break-after: always
+    }
+.center {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 1px;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.center1 {
+    display: block;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin-left: 1px;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.chapter {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 2em;
+    text-align: center
+    }
+.colophon {
+    display: block;
+    font-size: 0.83333em;
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-top: 2em;
+    text-align: justify
+    }
+.copyright {
+    display: block;
+    font-size: 0.83333em;
+    margin-top: 4em;
+    text-align: center
+    }
+.crt {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center;
+    text-indent: 0
+    }
+.dedication {
+    display: block;
+    margin-top: 6em
+    }
+.dis_img {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 1px;
+    margin-top: 1em;
+    text-align: center
+    }
+.dropcaps {
+    font-size: 2em;
+    line-height: 50px;
+    margin-top: -0.09em;
+    padding-top: 1px
+    }
+.extract {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 2em;
+    text-align: justify;
+    text-indent: 0
+    }
+.figure {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 2em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: center
+    }
+.hanging {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-top: 1em
+    }
+.hanging1 {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 2.6em;
+    margin-right: 2em;
+    margin-top: 1em
+    }
+.hanging2 {
+    display: block;
+    margin-bottom: 0.3em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.3em;
+    text-indent: -1.6em
+    }
+.hlink {
+    line-height: 1.2;
+    text-decoration: none
+    }
+.hlink1 {
+    text-decoration: none
+    }
+.indent {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify;
+    text-indent: 1em
+    }
+.medium {
+    font-size: 0.77419em
+    }
+.nonindent {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify;
+    text-indent: 0
+    }
+.pubhlink {
+    color: green;
+    text-decoration: none
+    }
+.section {
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 2em;
+    text-align: center
+    }
+.small {
+    font-size: 0.625em
+    }
+.small1 {
+    font-size: 0.75em
+    }
+.titlepage {
+    display: block;
+    text-align: center
+    }
+.toc {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 3em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 2em;
+    text-align: center
+    }
+.toc_chap {
+    display: block;
+    font-size: 1em;
+    line-height: 1.4em;
+    margin-left: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.toc_chap1 {
+    display: block;
+    font-size: 1em;
+    line-height: 1.4em;
+    margin-left: 0;
+    text-align: center
+    }
+.toc_fm {
+    display: block;
+    font-size: 0.83333em;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-top: 1em
+    }
+
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: "Charis";
+    font-style: normal;
+    font-weight: normal;
+    src: url(OEBPS/fonts/CharisSILR.ttf)
+    }
+@font-face {
+    font-family: "Charis";
+    font-style: normal;
+    font-weight: bold;
+    src: url(OEBPS/fonts/CharisSILB.ttf)
+    }
+@font-face {
+    font-family: "Charis";
+    font-style: italic;
+    font-weight: normal;
+    src: url(OEBPS/fonts/CharisSILI.ttf)
+    }
+@font-face {
+    font-family: "Charis";
+    font-style: italic;
+    font-weight: bold;
+    src: url(OEBPS/fonts/CharisSILBI.ttf)
+    }
+
