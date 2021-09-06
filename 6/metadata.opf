@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">e7481285-ead2-4466-90b8-997c015e78f0</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e7481285-ead2-4466-90b8-997c015e78f0</dc:identifier>
+        <dc:title>Economic Interdependence and War</dc:title>
+        <dc:creator opf:file-as="Copeland, Dale C." opf:role="aut">Copeland, Dale C.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-09-15T04:00:00+00:00</dc:date>
+        <dc:publisher>Princeton University Press</dc:publisher>
+        <dc:rights>All Rights Reserved</dc:rights>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
