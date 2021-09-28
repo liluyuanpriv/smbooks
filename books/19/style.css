@@ -1,0 +1,329 @@
+.bibliographyentry {
+    display: block;
+    margin-bottom: 0%;
+    margin-left: 10%;
+    margin-right: 0;
+    margin-top: 0%;
+    text-indent: -5%
+    }
+.bibliographyentry1 {
+    display: block;
+    margin-bottom: 0%;
+    margin-left: 5%;
+    margin-right: 0;
+    margin-top: 0%;
+    text-indent: -5%
+    }
+.bold {
+    display: inline;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.bold1 {
+    display: inline;
+    font-weight: bold
+    }
+.calibre {
+    height: auto;
+    width: auto
+    }
+.calibre1 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: super
+    }
+.chapterhead {
+    display: block;
+    margin-bottom: 0%;
+    margin-top: 0%
+    }
+.chapterheada {
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    margin-bottom: 4%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 4%;
+    text-indent: 0%
+    }
+.chapterheadb {
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    margin-bottom: 2%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 4%;
+    text-indent: 0%
+    }
+.chapternumber {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 12%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 7%;
+    text-align: center;
+    text-indent: 0%
+    }
+.chapteropenerfirstletters {
+    display: inline;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.chapteropenertext {
+    display: block;
+    margin-bottom: 0%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0%;
+    text-indent: 0%
+    }
+.colophon {
+    display: block;
+    margin-bottom: 0%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 10%;
+    text-align: center;
+    text-indent: 0%
+    }
+.colophonpage {
+    display: block
+    }
+.contentsentry {
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    margin-bottom: 0%;
+    margin-left: 0%;
+    margin-right: 5%;
+    margin-top: 2%;
+    text-indent: 0%
+    }
+.contentsentryname {
+    display: inline;
+    font-size: 1em;
+    font-weight: bold;
+    margin-bottom: 0%;
+    margin-left: 0%;
+    margin-right: 5%;
+    margin-top: 0%;
+    text-indent: 0%
+    }
+.contentshead {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 10%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 10%;
+    text-align: center;
+    text-indent: 0%
+    }
+.copyrightpage {
+    display: block;
+    margin-bottom: 6%;
+    page-break-before: always
+    }
+.copyrighttext {
+    display: block;
+    font-weight: normal;
+    margin-bottom: 0%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 3%;
+    text-indent: 0%
+    }
+.dedicationpage {
+    display: block;
+    margin-top: 10%;
+    page-break-before: always
+    }
+.dedicationtext {
+    display: block;
+    font-weight: normal;
+    margin-bottom: 0%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0%;
+    text-align: center;
+    text-indent: 0%
+    }
+.epigraphsource {
+    display: block;
+    font-style: normal;
+    font-weight: normal;
+    margin-bottom: 0%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0%;
+    text-align: center;
+    text-indent: 0%
+    }
+.epigraphtext {
+    display: block;
+    font-style: normal;
+    margin-bottom: 3%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0%;
+    text-indent: 0%
+    }
+.extract {
+    display: block;
+    margin-bottom: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%
+    }
+.extracthead {
+    display: block;
+    margin-bottom: 1%;
+    margin-left: 5%;
+    margin-right: 0;
+    margin-top: 0%;
+    text-indent: 0%
+    }
+.extractk {
+    display: block;
+    margin-bottom: 4%;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-top: 4%
+    }
+.extractlettertextnoindent {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.extracttextnoindent {
+    display: block;
+    margin-bottom: 3%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0%;
+    text-indent: 0%
+    }
+.extracttextnoindent1 {
+    display: block;
+    margin-bottom: 2%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0%;
+    text-indent: 0%
+    }
+.halftitlepage {
+    display: block;
+    page-break-before: always
+    }
+.halftitlepagetitle {
+    display: block;
+    font-size: 1.66667em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 10%;
+    text-align: center;
+    text-indent: 0%
+    }
+.italic {
+    display: inline;
+    font-style: italic;
+    line-height: 1.2
+    }
+.italic1 {
+    display: inline;
+    font-style: italic
+    }
+.para {
+    display: block;
+    margin-bottom: 0%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0%;
+    text-indent: 5%
+    }
+.smallcaps {
+    font-size: 0.625em
+    }
+.spacebreak {
+    display: block;
+    margin-bottom: 2%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 2%;
+    text-align: center;
+    text-indent: 0%
+    }
+.text {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0
+    }
+.titlepageauthor {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 40%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0%;
+    text-align: center;
+    text-indent: 0%
+    }
+.titlepagepublisher {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0%;
+    text-align: center;
+    text-indent: 0%
+    }
+.titlepagesubtitle {
+    display: block;
+    font-size: 0.83333em;
+    font-weight: bold;
+    margin-bottom: 12%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0%;
+    text-align: center;
+    text-indent: 0%
+    }
+.titlepagetitle {
+    display: block;
+    font-size: 1.66667em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 5%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 10%;
+    text-align: center;
+    text-indent: 0%
+    }
+
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+
