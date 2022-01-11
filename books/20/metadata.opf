@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4d2d0cae-1213-4e4e-9f39-fa9b8c0b400a</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4d2d0cae-1213-4e4e-9f39-fa9b8c0b400a</dc:identifier>
+        <dc:title>AFOQT Study Guide 2020-2021: Test Prep Book with Practice Exam Questions for the Air Force Office Qualifying Test</dc:title>
+        <dc:creator opf:file-as="Trivium" opf:role="aut">Trivium</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.34.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-24T04:00:00+00:00</dc:date>
+        <dc:description>You&amp;#39;re probably thinking this is just another typical study guide. Because we know your time is limited, we&amp;#39;ve created a product that isn&amp;#39;t like most study guides. With Trivium Test Prep’s unofficial AFOQT Study Guide 2020-2021: Test Prep Book with Practice Exam Questions for the Air Force Office Qualifying Test you&amp;#39;ll benefit from a quick but total review of everything tested on the exam with real examples, graphics, and information. Imagine having your study materials on your phone or tablet! Trivium Test Prep’s NEW AFOQT Study Guide 2020-2021 comes with FREE online resources, including: practice questions, online flash cards, study “cheat” sheets, and 35 tried and tested test tips. These easy-to-use materials give you that edge you need to pass the first time.  USAF was not involved in the creation or production of this product, is not in any way affiliated with Trivium Test Prep, and does not sponsor or endorse this product.  Trivium Test Prep’s AFOQT Study Guide 2020-2021 covers: •  Verbal Analogies •  Arithmetic Reasoning •  Word Knowledge •  Math Knowledge •  Paragraph Comprehension •  Situational Judgement •  Self-Description Inventory •  Physical Science •  Table Reading •  Instrument Comprehension •  Block Counting •  Aviation Information  …and includes two FULL practice tests!  About Trivium Test Prep Trivium Test Prep is an independent test prep study guide company that produces and prints all of our books right here in the USA. Our dedicated professionals know how people think and learn, and have created our test prep products based on what research has shown to be the fastest, easiest, and most effective way to prepare for the exam. Unlike other study guides that are stamped out in a generic fashion, our study materials are specifically tailored for your exact needs. We offer a comprehensive set of guides guaranteed to raise your score for exams from every step of your education; from high school, to college or the military, to graduate school. Let our study guides guide you along the path to the professional career of your dreams!</dc:description>
+        <dc:publisher>Trivium Test Prep</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
