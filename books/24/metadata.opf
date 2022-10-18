@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">87298e61-0873-44f5-b805-5b917aa0bce2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">87298e61-0873-44f5-b805-5b917aa0bce2</dc:identifier>
+        <dc:title>Barron's Military Flight Aptitude Tests</dc:title>
+        <dc:creator opf:file-as="Duran, Terry L." opf:role="aut">Terry L. Duran</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.43.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-07-01T04:00:00+00:00</dc:date>
+        <dc:publisher>Barrons Educational Series</dc:publisher>
+        <dc:rights>© 2018, 2014, 2011, 2007 by Barron’s Educational Series, Inc.</dc:rights>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
